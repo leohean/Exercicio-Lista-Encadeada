@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1600093722 source:c:\users\leonardo\desktop\lista04\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1599845791 c:\users\leonardo\desktop\lista04\funcoes.h
+
+1600095675 source:c:\users\leonardo\desktop\lista04\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
